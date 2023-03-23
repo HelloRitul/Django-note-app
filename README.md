@@ -29,3 +29,6 @@ Nginx is an open-source web server that, since its success as a web server, is n
 To start with AWS, you can create an AWS account to enjoy some free tier products that include the server on that we will deploy the Django project on. AWS likes to call these servers EC2 instances.
 
 # 1. Create an EC2 Instance :
+After Login AWS Free Tier(root), we gonna create EC2 Instance which is similar to a private ubuntu server/system. On the console click >> Services
+
+https://docs.google.com/document/d/e/2PACX-1vTao6wjeWXaZItrLvN3vqMzBAzSs23CcaPHjeG4jknazXAS4cAByra7J-QIBFL9gab7deOZB1ZMG9sY/pub
