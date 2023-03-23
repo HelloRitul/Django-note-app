@@ -14,3 +14,18 @@ Nginx is an open-source web server that, since its success as a web server, is n
 ![ng2](https://user-images.githubusercontent.com/69754757/227113523-88a754df-16b2-4ef4-a12a-b3e9f87b97ce.png)
 
 # Prerequisites and Steps:
+-> A Free Tier AWS Account
+
+-> Create an EC2 Instance
+
+-> Login To Instance
+
+-> Config ubuntu server
+
+->Install Nginx
+
+->Install Docker
+
+To start with AWS, you can create an AWS account to enjoy some free tier products that include the server on that we will deploy the Django project on. AWS likes to call these servers EC2 instances.
+
+# 1. Create an EC2 Instance :
