@@ -8,3 +8,9 @@ Amazon Elastic Compute Cloud (Amazon EC2) is a web service that provides resizab
 # NGINX
 
 Nginx is an open-source web server that, since its success as a web server, is now also used as a reverse proxy , HTTP cache, and load balancer. We will use Nginx to server our webpages as needed .
+
+![ng1](https://user-images.githubusercontent.com/69754757/227113445-5e5472eb-c63b-431a-97b2-faaa17917410.png)
+
+![ng2](https://user-images.githubusercontent.com/69754757/227113523-88a754df-16b2-4ef4-a12a-b3e9f87b97ce.png)
+
+# Prerequisites and Steps:
