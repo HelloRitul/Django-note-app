@@ -1,5 +1,10 @@
 # Deploying Django Apps by Nginx in AWS
 
-# Documentation of this file inside this link 
+![Screenshot 2023-05-04 164200](https://user-images.githubusercontent.com/69754757/236188785-0c623c83-3882-45fb-bce4-f4c92eeb79bc.png)
 
-https://docs.google.com/document/d/e/2PACX-1vTao6wjeWXaZItrLvN3vqMzBAzSs23CcaPHjeG4jknazXAS4cAByra7J-QIBFL9gab7deOZB1ZMG9sY/pub
+
+## Check this link for read documentation 👇👇
+
+# https://ritul.hashnode.dev/deploying-django-apps-by-nginx-in-aws
+
+# Hope this is helpful for all! 😀
